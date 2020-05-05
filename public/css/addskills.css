@@ -1,0 +1,10 @@
+.list-group{
+    max-height: 500px;
+    overflow-y:auto;
+    overflow-x: hidden;
+}
+
+.panel-body{
+    max-height: 700px;
+    height: 700px;
+}
